@@ -1,0 +1,8 @@
+#########################
+Required Python Packages
+#########################
+
+numpy 
+scipy
+matplotlib
+pillow
