@@ -3,6 +3,12 @@
 This is a small project that does a psf analysis of the Nancy Grace Roman 
 Space Telescope, and determines its diffraction pattern.
 
+To obtain this repository run the following command on a terminal (Powershell for windows)
+```
+git clone https://github.com/A-n-i-r-b-a-n/psf_analysis.git
+
+```
+
 # Installation and use 
 The use of this project requires Jupyter notebook and python installed in 
 user's system. 
