@@ -32,7 +32,7 @@ py -m venv env
 
 ```
 
-## Installing the requuired python packages
+## Installing the required python packages
 From the project directory whre the virtual environment was created activate the
 python environment.
 
