@@ -55,8 +55,7 @@ py -m pip install -r requirements.txt
 
 ## The notebook
 
-Open the notebook (.ipynb) file. Run all the cells, generate your own star field and 
-generate your own simulated JWST and Roman space telescope images. The notebook 
+Open the notebook (.ipynb) file. Select the virtual environment you created as the jupyter kernel to run the notebook file. Run all the cells, generate your own star field and generate your own simulated JWST and Roman space telescope images. The notebook 
 contains all the necessary instructions.
 
 
